@@ -20,9 +20,7 @@ To help bring this vision to reality, we're building Mauvi, a creative suite tha
 
 ### Application Process 
 
-Please send an email to hello@mauvi.xyz that includes a link to previous work, your portfolio and a brief description of past achievements. Once we get a chance to read your application, we'll invite you to a Zoom interview to discuss the role and understand your expectations and what you're looking for in your next role. 
+Please send an email to hello@mauvi.xyz that includes a link to your previous work, your portfolio and a brief description of past achievements. Once we get a chance to review your application, we'll invite you to a Zoom interview to discuss the role and understand your expectations and what you're looking for in your next role. 
 
-We value direct and clear communication, kindness and curisoty, and an intuitive yet rigorous approach to crack out extraordinary solutions. Please reach out, we're excited to meet you.
-
-
+We value direct and clear communication, kindness and curiosity, and having an intuitive yet rigorous approach to crack out extraordinary solutions. Please reach out, we're excited to meet you.
 
