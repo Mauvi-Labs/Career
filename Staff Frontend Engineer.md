@@ -17,3 +17,12 @@ To help bring this vision to reality, we're building Mauvi, a creative suite tha
 - We approach UI engineering as a challenge that requires balancing technical workflows with an innate or cultivated sense of aesthetics, and the ability to turn AI research into features that help steer foundation models.
 - A commitment to high standards and the eagerness to iterate on your solutions. We prioritize delivering a high-quality compelling user experience over shipping products that make no difference.
 - A genuine interest in the history of filmmaking, cinematic techniques, or music production is cool to have, but not a must.
+
+### Application Process 
+
+Please send an email to hello@mauvi.xyz that includes a link to previous work, your portfolio and a brief description of past achievements. Once we get a chance to read your application, we'll invite you to a Zoom interview to discuss the role and understand your expectations and what you're looking for in your next role. 
+
+We value direct and clear communication, kindness and curisoty, and an intuitive yet rigorous approach to crack out extraordinary solutions. Please reach out, we're excited to meet you.
+
+
+
