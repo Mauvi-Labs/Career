@@ -9,7 +9,7 @@ We will post a full job description including job requirements, our tech stack a
 
 Mauvi Labs, Inc. is an applied AI research company. Our long-term goal is to develop general-purpose human-level multimodal models that are capable of (complex visual) reasoning and understanding. We're pushing every boundary to develop novel machine learning architectures and compelling social consumer products.
 
-To help bring this vision to reality, we're building our first flagship consumer prodict 'Mauvi', a creative suite that turns filmmaking, video and music production into a fun! social experience using a suite of AI models to give the creative class a new kind of camera and production techniques that eliminate the need for expensive filming equipment and music recording studios. Join us.
+To help bring this vision to reality, we're building our first flagship consumer product 'Mauvi', a creative suite that turns filmmaking, video and music production into a fun! social experience using a suite of AI models to give the creative class a new kind of camera and production techniques that eliminate the need for expensive filming equipment and music recording studios. Join us.
 
 ### Application Process
 
